@@ -131,6 +131,7 @@ body {
 }
 
 #breadcrumbs a {
+  font-size: 14px;
   font-weight: bold;
 	margin-top:0;
 	padding-top:0;
