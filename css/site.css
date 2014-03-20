@@ -1,3 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Allerta);
+@import url(http://fonts.googleapis.com/css?family=Crimson+Text);
+
+
+
+
 body {
 	margin:0;
 	padding:0;
@@ -132,6 +138,7 @@ body {
 
 #breadcrumbs a {
   font-weight: bold;
+  font-size: 14px;
 	margin-top:0;
 	padding-top:0;
   /*
@@ -165,6 +172,41 @@ body {
   -webkit-box-shadow: inset 0 10px 10px -10px #000;
   box-shadow:         inset 0 10px 10px -10px #000;
 }
+
+
+#banner, #breadcrumbs, #footer {
+  font-family: 'Allerta', Helvetica, Arial, sans-serif;
+}
+
+#banner {
+  /*
+    font-family: 'Lobster', Georgia, Times, serif;
+  */
+  /*
+  font-size: 70px;
+  line-height: 100px;
+  */
+  font-family: 'Allerta', Helvetica, Arial, sans-serif;
+  font-size: 50px;
+  /*
+  line-height: 55px;
+  */
+}
+
+#bodyColumn p {
+  /*
+   font-family: 'Cabin', Helvetica, Arial, sans-serif;
+   font-size: 15px;
+   line-height: 25px;
+  */
+  
+  font-family: 'Crimson Text', Georgia, Times, serif;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+
+
 
 #contentBox { 
   max-width: 850px;
