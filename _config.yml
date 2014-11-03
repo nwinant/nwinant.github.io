@@ -1,0 +1,13 @@
+# Site settings
+title: Nathan Winant
+email: nw@exegetic.net
+description: > # this means to ignore newlines until "baseurl:"
+  Code, food, things, stuff. (Mostly things and stuff.)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://exegetic.net" # the base hostname & protocol for your site
+twitter_username: NathanWinant
+github_username:  nathanwinant
+
+# Build settings
+markdown: kramdown
+
