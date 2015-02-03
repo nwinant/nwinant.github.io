@@ -1,2 +1,2 @@
-[nathanwinant.github.io](http://nathanwinant.github.io/)
-======================
+[exegetic.net](http://exegetic.net/)
+====================================
