@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://exegetic.net" # the base hostname & protocol for your site
 twitter_username: NTWinant
-github_username:  NTWinant
+github_username:  nwinant
 
 # Build settings
 markdown: kramdown
