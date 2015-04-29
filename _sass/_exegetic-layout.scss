@@ -49,12 +49,60 @@ body {
     @include linear-gradient($ex-banner-bg-light, $ex-banner-bg-dark);
 }
 
-#profilePic { 
+#profilePic {
   moz-border-radius: 15px;
   border-radius: 15px;
-  float:left; 
-  clear: both; 
+  float:left;
+  clear: both;
   margin: 0px 20px 0.5em 0;
+}
+
+.pow404 {
+  background-image: url("../images/pow-158867_640.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  min-width: 640px;
+  max-width:100%;
+  height:545px;
+}
+
+.pow404Text {
+  font-style: italic;
+  line-height: 200%;
+  color: #000;
+  color: #fff;
+
+  margin-top: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin:0 auto;
+  overflow:hidden;
+  word-wrap: break-word;
+  height: 100%;
+
+  -webkit-animation: flux404 2s infinite alternate; /* Safari 4+ */
+  -moz-animation:    flux404 2s infinite alternate; /* Fx 5+ */
+  -o-animation:      flux404 2s infinite alternate; /* Opera 12+ */
+  animation:         flux404 2s infinite alternate; /* IE 10+, Fx 29+ */
+}
+
+@-webkit-keyframes flux404 {
+  0%   { line-height: 200%; max-width:100%; }
+  100% { line-height: 150%; max-width:95%; }
+}
+@-moz-keyframes flux404 {
+  0%   { line-height: 200%; max-width:100%; }
+  100% { line-height: 150%; max-width:95%; }
+}
+@-o-keyframes flux404 {
+  0%   { line-height: 200%; max-width:100%; }
+  100% { line-height: 150%; max-width:95%; }
+}
+@keyframes flux404 {
+  0%   { line-height: 200%; max-width:100%; }
+  100% { line-height: 150%; max-width:95%; }
 }
 
 div.section {
