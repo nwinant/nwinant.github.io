@@ -1,0 +1,10 @@
+- text: Home
+  url: /
+- text: Stuff
+  url: http://stuff.exegetic.net/
+#- text: Tools
+#  url: /tools/
+#  subitems:
+#    - text: Schedule
+#      url: /baseline-schedule/
+
