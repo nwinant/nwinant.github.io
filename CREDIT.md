@@ -6,3 +6,9 @@ Credits & licensing notes for third-party assets & software
 * Via [Pixabay](http://pixabay.com/en/pow-comics-newspaper-retro-vintage-158867/).
 * Released under [Creative Commons Deed CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).
   Free for commercial use / No attribution required
+
+### SVG icons
+* By http://fortawesome.github.io/Font-Awesome/
+* MIT license
+
+

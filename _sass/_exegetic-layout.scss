@@ -35,6 +35,19 @@ a:hover {
   }
 }
 
+.social-media-list {
+  a:hover {
+    text-decoration: none;
+    background-color: inherit;
+  }
+  .icon {
+    color: #828282;
+    a:hover {
+      color: inherit;
+    }
+  }
+}
+
 #profilePic {
   /*
   moz-border-radius: 15px;
@@ -92,4 +105,3 @@ a:hover {
   0%   { line-height: 200%; max-width:100%; }
   100% { line-height: 150%; max-width:95%; }
 }
-

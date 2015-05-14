@@ -1,0 +1,84 @@
+<!--
+http://fortawesome.github.io/Font-Awesome/examples/
+http://fortawesome.github.io/Font-Awesome/cheatsheet/
+-->
+
+
+<ul class="social-media-list">
+  {% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <span class="icon">
+	<i class="fa fa-github fa-lg"></i>
+      </span>
+
+      <span class="username">{{ site.github_username }}</span>
+    </a>
+  </li>
+  {% endif %}
+
+  {% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <span class="icon"> 
+	<i class="fa fa-twitter fa-lg"></i>
+      </span>
+
+      <span class="username">{{ site.twitter_username }}</span>
+    </a>
+  </li>
+  {% endif %}
+
+  {% if site.linkedin_username %}
+  <li>
+    <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+      <span class="icon">
+	<!--
+	<i class="fa fa-linkedin fa-lg"></i>
+	-->
+	<i class="fa fa-linkedin-square fa-lg"></i>
+      </span>
+
+      <span class="username">{{ site.linkedin_username }}</span>
+    </a>
+  </li>
+  {% endif %}
+
+
+</ul>
+
+{% comment %}
+<!--
+{% if site.dribbble_username %}
+<a href="https://dribbble.com/{{ site.dribbble_username }}">
+{% endif %}
+{% if site.email_username %}
+<a href="mailto:{{ site.email_username }}">
+{% endif %}
+{% if site.facebook_username %}
+<a href="https://www.facebook.com/{{ site.facebook_username }}">
+{% endif %}
+{% if site.flickr_username %}
+<a href="https://www.flickr.com/{{ site.flickr_username }}">
+{% endif %}
+{% if site.instagram_username %}
+<a href="https://instagram.com/{{ site.instagram_username }}">
+{% endif %}
+{% if site.pinterest_username %}
+<a href="https://www.pinterest.com/{{ site.pinterest_username }}">
+{% endif %}
+{% if site.rss_username %}
+<a href="{{ site.baseurl_username }}/feed.xml">
+{% endif %}
+{% if site.stackoverflow_username %}
+<a href="http://stackoverflow.com/{{ site.stackoverflow_username }}">
+{% endif %}
+{% if site.youtube_username %}
+<a href="https://youtube.com/{{ site.youtube_username }}">
+{% endif %}
+{% if site.googleplus_username %}
+<a href="https://plus.google.com/{{ site.googleplus_username }}">
+{% endif %}
+-->
+{% endcomment %}
+
