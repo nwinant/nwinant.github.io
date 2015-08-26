@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/nwinant
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://exegetic.net
+  * I am nwinant (https://keybase.io/nwinant) on keybase.
+  * I have a public key with fingerprint DDAD 0BE8 3AF3 4ECD 2475  DB52 0FCB 1A77 15B8 65CB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "ddad0be83af34ecd2475db520fcb1a7715b865cb",
+            "host": "keybase.io",
+            "key_id": "0fcb1a7715b865cb",
+            "kid": "010155de752ff8699e05ab3ba6f86c3d9889e93a334b124869484ed8d7438655b41f0a",
+            "uid": "2d06cfac84ae55f3c86aa28ac7ab2c19",
+            "username": "nwinant"
+        },
+        "service": {
+            "hostname": "exegetic.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1440556412,
+    "expire_in": 157680000,
+    "prev": "b718da40ace3068bf19b537aae3546a487f17113059f6661e18379c52b5d2319",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.43
+Comment: https://keybase.io/crypto
+
+yMIcAnicbZJdSBRRFMd3M8ssSSkio4wmhAqJuTNzZ+7sEkJlX1D0gRBlLPfO3Fkn
+dWabnfVr8yUzkogeKqkMEYlQ8yk0sDBKkrCSAmWx1j5Aw6AQBBGpDbtj9tZ9uZxz
+/v/fvedwXmSl+TL9Z7NeHLSnmmL+188LY77ij/nn4xyx9RouEOfK6MJlmFaYOhHH
+tFwuwOk61nlCkYgNUaKaLkgK1AkUeEMjACsKgATJUCNcAVdqRz0HwxAcpTtNm+VY
+EDJ1lv2PvuxvAfAAQp0qUDAMJKsq5SEmIsEyizRRVxFSqSpiUZQIECSmkJBEdaQr
+kshIkEjA4DHDxRZwgs7LmoE1JGEKoSFqSMZYQFhTMBE0oHrCKHUsXEGZ2qoyLcz6
+rCvgWLLS1Kg3Aa+RRQGtpmHqmtpOi7rMGnFs19bsclYpdd1IwDO6NRFPWUVJaJER
+IqalsykyQyV1oqZtcQHAlJprelAgSTyEsgSEAsaPmA4NmZ4CKjLi2fGeoZUMSRSA
+dCzxWKMiLyNiAJVAUcGYilCSsYQUAygAiDxUDVmWAQVIVFQNCgTqgrjQa5Ses2wu
+ANk3cZgho2bYwm7MoVxd/7OSpT5/pm9Z+hJvD3yZK7L/bUfuxeWplRPvfk7LN8+N
+FYmzOacfreq8vHvTvcHDvwdSbztOtAyNx9N/cc0Nt9te9dl9g08mc97t2b61d9d9
+7tb78eDTN60DT8trhg6dzNPPoIwHcz31+5N1x9bnJi5cSyQbi2qv/xidkK9O5XFH
+13aPBYP58xV0+OE++9Jgtbzq08yN1bXD/gMpXD/xZd3Wa6k9uehTobtkZt3vrIPh
+OyBU+kHqbx7p3NHYNfq1oan12+PJU49bRxL9A8ePrJntgE5aYfJzz730O+qmDUeC
+a5r3lmyM0u+D+668rI/PDo2eyd6S393VXrGsZb7sVsPm2ICa0btjevPzomRP9ra7
+Jcvb2klOU6J47g8eyS05
+=jx+H
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nwinant
+
+==================================================================
+
