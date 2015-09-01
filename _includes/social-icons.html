@@ -5,9 +5,12 @@ http://fortawesome.github.io/Font-Awesome/cheatsheet/
 
 
 <ul class="social-media-list">
+
   {% if site.github_username %}
   <li>
-    <a href="https://github.com/{{ site.github_username }}" title="GitHub">
+    <a href="https://github.com/{{ site.github_username }}" 
+	data-network="GitHub" 
+	data-username="{{ site.github_username }}">
       <span class="icon">
 	<i class="fa fa-github fa-lg"></i>
       </span>
@@ -19,7 +22,9 @@ http://fortawesome.github.io/Font-Awesome/cheatsheet/
 
   {% if site.twitter_username %}
   <li>
-    <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+    <a href="https://twitter.com/{{ site.twitter_username }}" 
+	data-network="Twitter" 
+	data-username="@{{ site.twitter_username }}">
       <span class="icon"> 
 	<i class="fa fa-twitter fa-lg"></i>
       </span>
@@ -31,7 +36,9 @@ http://fortawesome.github.io/Font-Awesome/cheatsheet/
 
   {% if site.linkedin_username %}
   <li>
-    <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" 
+	data-network="LinkedIn" 
+	data-username="{{ site.linkedin_username }}">
       <span class="icon">
 	<!--
 	<i class="fa fa-linkedin fa-lg"></i>
@@ -46,7 +53,9 @@ http://fortawesome.github.io/Font-Awesome/cheatsheet/
 
   {% if site.keybase_username %}
   <li>
-    <a href="https://keybase.io/{{ site.keybase_username }}" title="Keybase">
+    <a href="https://keybase.io/{{ site.keybase_username }}" 
+	data-network="Keybase" 
+	data-username="{{ site.keybase_username }}">
       <span class="icon">
 	<i class="fa fa-key fa-lg"></i>
       </span>
@@ -55,7 +64,6 @@ http://fortawesome.github.io/Font-Awesome/cheatsheet/
     </a>
   </li>
   {% endif %}
-
 
 </ul>
 
@@ -93,4 +101,5 @@ http://fortawesome.github.io/Font-Awesome/cheatsheet/
 {% endif %}
 -->
 {% endcomment %}
+<div class="social-label"><span class="social-network"></span> <span class="social-username"></span></div>
 
