@@ -12,11 +12,11 @@ I live in [Austin, TX, USA](http://ht.ly/nlELQ), where
 [life](http://www.austinchronicle.com/news/2013-07-12/event-horizon/) is generally
 [good](http://www.hipstercrite.com/2012/12/05/an-open-letter-to-john-aielli/).
 
-Professionally, I'm a software developer experienced in Java, Linux, full-stack web development, and semantic and knowledge-driven applications. 
-I've worked with Semantic Web technologies such as RDF, OWL, and SPARQL.
-I've built [APIs](http://dev.cyc.com/), developer tools, and distributed applications at [Cycorp](http://www.cyc.com/) for the [Cyc AI](http://wiki.lesswrong.com/wiki/Cyc).
-Curiously enough, I've also done a small-but-not-inconsequential amount of voice acting as a robot. 
-Ask me how to help immanentize the eschaton and/or mechapocalypse!
+Professionally, I'm a software developer experienced in Java, Linux, full-stack web development, and knowledge-driven applications.
+In particular, I've worked with [Semantic Web technologies](https://en.wikipedia.org/wiki/Semantic_Web) such as RDF, OWL, and SPARQL,
+and built [APIs](http://dev.cyc.com/), developer tools, and distributed applications for the [Cyc AI](http://wiki.lesswrong.com/wiki/Cyc).
+I've also done a small-but-not-inconsequential amount of voice acting as a robot.
+Ask me how to help immanentize the mechapocalypse/eschaton!
 
 In my spare time I'm into
 [skepticism](http://rationalwiki.org/wiki/Skepticism#Scientific_and_methodological_skepticism),
