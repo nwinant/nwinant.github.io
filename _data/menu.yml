@@ -1,7 +1,7 @@
 - text: Home
   url: /
-- text: Stuff
-  url: http://stuff.exegetic.net/
+#- text: Stuff
+#  url: http://stuff.exegetic.io/
 #- text: Tools
 #  url: /tools/
 #  subitems:

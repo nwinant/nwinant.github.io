@@ -4,7 +4,7 @@ https://keybase.io/nwinant
 
 I hereby claim:
 
-  * I am an admin of http://exegetic.net
+  * I am an admin of http://exegetic.io
   * I am nwinant (https://keybase.io/nwinant) on keybase.
   * I have a public key with fingerprint DDAD 0BE8 3AF3 4ECD 2475  DB52 0FCB 1A77 15B8 65CB
 
@@ -21,7 +21,7 @@ To do so, I am signing this object:
             "username": "nwinant"
         },
         "service": {
-            "hostname": "exegetic.net",
+            "hostname": "exegetic.io",
             "protocol": "http:"
         },
         "type": "web_service_binding",

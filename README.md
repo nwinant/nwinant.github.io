@@ -1,5 +1,5 @@
-[exegetic.net](http://exegetic.net/)
-====================================
+[exegetic.io](http://exegetic.io/)
+==================================
 
 Obligatory vanity page. Built with [Jekyll](http://jekyllrb.com/), deployed on [GitHub Pages](https://pages.github.com/). _Quelle surprise!_
 
