@@ -3,12 +3,11 @@ layout: page
 permalink: /
 ---
 
-<img src="https://www.gravatar.com/avatar/7daf76f4fe7bd797a7c9dd8da0b9aadf?s=200" id="profilePic"
-width="200" height="200" title="The author, in a pensive moment..."
-alt="An image of Nathan Winant, in a pensive moment." />
+<img src="https://en.gravatar.com/userimage/54896986/1915c092a4e46764b9ee4a3e0ce9ab8f.jpg?size=200"
+ title="The author, in a pensive moment..." alt="An image of Nathan Winant, at leisure."
+ id="profilePic" width="200" height="200" />
 
-I'm Nathan Winant; you may know me as some guy on the Internet.
-I live in [Austin, TX, USA](http://ht.ly/nlELQ), where
+I'm Nathan Winant, and I live in [Austin, TX, USA](http://ht.ly/nlELQ), where
 [life](https://www.austinchronicle.com/news/2013-07-12/event-horizon/) is generally
 [good](https://www.hipstercrite.com/2012/12/05/an-open-letter-to-john-aielli/).
 
